@@ -1,5 +1,6 @@
-console.log("Hello");
-console.log("My name is sajid");
-console.info("This is Info"); //info means information
-console.warn("I am not bad guy"); //warn means warning
-console.error("Oop failed to excute");
+console.log("Sajid Mahammad Tamboli");
+console.log("My hobbies are Swimming,singing,dancing");
+console.info("My Strength are  Hard work,Patience,Quick learning"); 
+console.warn("My weakness are Bad hand writing,easily trust,nervousness")
+console.log(30+50);
+console.log(49*479);
