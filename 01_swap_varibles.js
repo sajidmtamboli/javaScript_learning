@@ -1,5 +1,5 @@
-var my_number="100"; //200
-var your_number="200"; //100
+var my_number="100"; 
+var your_number="200"; 
 console.log("Before swap");
 console.log(my_number,your_number);
 
