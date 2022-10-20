@@ -28,4 +28,4 @@ console.log(person.city);
 console.log(person.age);
 let personFullname= person.fullNmae;
 console.log(personFullname);
-console.log(person.fullNmae);
+console.log(person.fullname);
