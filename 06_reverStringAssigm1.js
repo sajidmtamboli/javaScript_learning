@@ -3,7 +3,7 @@ function reverseString(string1){
 var lenthStr = string1.length-1;
 var reverseString = "";
 for (let index = lenthStr; index >=0; index--) {
-    console.log(string1.charAt(index));
+    
     reverseString= reverseString + string1.charAt(index);  
 }
 console.log(reverseString);
