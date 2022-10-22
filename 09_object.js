@@ -15,6 +15,8 @@ let person = {
     },
 
 }
+let isAvailble =fullName in person ;
+console.log();
 console.log(typeof person);
 console.log(person.addres);
 person.addres.landmark = " near main road";
@@ -29,3 +31,11 @@ console.log(person.age);
 let personFullname= person.fullNmae;
 console.log(personFullname);
 console.log(person.fullname);
+
+
+console.log("=========== in operator================");
+let isAvailable = "fullName" in mohitPerson;
+console.log(isAvailable);
+console.log("city" in mohitPerson);
+console.log("===========================");
+
