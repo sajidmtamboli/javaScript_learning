@@ -8,4 +8,5 @@ function outer() {
     return inner_fun;
 }
 let returnValue = outer();
-returnValue();
+returnValue()
+
