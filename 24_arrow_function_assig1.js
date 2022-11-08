@@ -25,7 +25,7 @@ let add = (a1,a2, a3, a4,a5) =>{
 return  a1+a2+a3+a4+a5;
 
 }
-console.log(add(100,100,200,349,756)); 
-console.log(add("I AM","Learning","ES6","Feature","in depth")); 
+console.log(`addistion is = ${add(100,100,200,349,756)}`); 
+console.log(`addistion is = ${add("I AM","Learning","ES6","Feature","in depth")}`); 
   
 

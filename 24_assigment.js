@@ -7,7 +7,7 @@ class Employee{
         this.emp_company = emp_company;
     }
 }
-const emp_anil = new Employee(22, "Anil", "IT", 5000, "TCS");
+const emp_anil = new Employee(22, "Anil", "IT", 50000, "TCS");
 const emp_rada = new Employee(33, "Radha", "HR", 74000, "Wipro");
 const emp_rashi = new Employee(55, "Rishi", "Finance", 47000, "TCS");
 const emp_sonali = new Employee(66, "Sonali", "Finance", 45000, "Infy");

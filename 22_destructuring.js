@@ -1,4 +1,4 @@
-use strict'
+
  
 let person = {
     fullName: "Mohit Aglawe",
