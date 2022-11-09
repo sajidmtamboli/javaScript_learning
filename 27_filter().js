@@ -4,7 +4,7 @@ let newArray = arrayOfnumbers.filter((element)=>{
 return element>=4;
 });
 console.log(newArray);
-console.log("======reduce=====");
+console.log("======Q2.reduce=====");
 let sum = arrayOfnumbers.reduce((value,runningTotal)=>{
     return value+ runningTotal;
 });
